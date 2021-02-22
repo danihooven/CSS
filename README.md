@@ -1,4 +1,4 @@
-# CSS - My Site
+# CSS - Udemy
 
 Udemy - Complete Web Dev Bootcamp 2021
   Section 4: Introduction to CSS
